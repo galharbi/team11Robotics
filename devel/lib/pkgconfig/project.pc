@@ -1,0 +1,8 @@
+prefix=/var/local/home/team11/ros_workspaces/final/devel
+
+Name: project
+Description: Description of project
+Version: 0.0.0
+Cflags: 
+Libs: -L/var/local/home/team11/ros_workspaces/final/devel/lib 
+Requires: 

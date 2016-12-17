@@ -1,0 +1,2 @@
+ar_track_alvar:project
+-DCATKIN_DEVEL_PREFIX=/var/local/home/team11/ros_workspaces/final/devel -DCMAKE_INSTALL_PREFIX=/var/local/home/team11/ros_workspaces/final/install -G Unix Makefiles
